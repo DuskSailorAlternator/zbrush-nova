@@ -36,4 +36,4 @@ Powerful **ZBrush Nova** workspace providing enterprise-level CAD tools, visuali
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.   
+> This repository is provided for educational and utility purposes only. Use at your own discretion.    
